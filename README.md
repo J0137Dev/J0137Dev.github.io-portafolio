@@ -8,7 +8,7 @@ Click the buttons below to explore my work in different formats:
 
 | Interactive Experience (One-Page) | Detailed Portfolio (Classic) |
 | :--- | :--- |
-| [![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-Indigo?style=for-the-badge&logo=googlechrome&logoColor=white)](https://j0137dev.github.io/J0137Dev.github.io-portafolio) | [![Portfolio](https://img.shields.io/badge/View_One--Page_CV-SkyBlue?style=for-the-badge&logo=githubpages&logoColor=white)](https://j0137dev.github.io/J0137Dev.github.io-portfolio) |
+| [![Portfolio](https://img.shields.io/badge/View_One--Page_CV-SkyBlue?style=for-the-badge&logo=githubpages&logoColor=white)](https://j0137dev.github.io/J0137Dev.github.io-portfolio) | [![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-Indigo?style=for-the-badge&logo=googlechrome&logoColor=white)](https://j0137dev.github.io/J0137Dev.github.io-portafolio) |
 
 ---
 
